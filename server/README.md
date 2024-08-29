@@ -1,1 +1,1 @@
-# Um Milhão de Logos - Server
+# O Site De Um Milhão De Marcas - Server

@@ -1,3 +1,3 @@
-import TemplateScreen from './TemplateScreen'
+import BoardScreen from './BoardScreen'
 
-export { TemplateScreen }
+export { BoardScreen }
